@@ -31,7 +31,7 @@ This is a simple implementation of the classic Snake game in C++. The snake is c
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Yash-P88/IT206-P1-SnakeGame
+   git clone https://github.com/Yash-P88/IT206-P1-SnakeGame.git
    ```
 
 2. Navigate into the project folder:
